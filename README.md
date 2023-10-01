@@ -39,7 +39,7 @@
 
 - Email: sanatankisku@gmail.com
 - Website: https://sanatankisku.netlify.app/
-- Twitter: [@KiskuTweets](https://twitter.com/KiskuTweets)
+- Twitter: [@Sanatan__Kisku](https://twitter.com/Sanatan__Kisku)
 - LinkedIn: [Sanatan Kisku](https://www.linkedin.com/in/sanatankisku/)
 
 ## 😄 Fun facts about me ...
