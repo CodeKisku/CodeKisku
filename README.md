@@ -47,3 +47,6 @@
 - I love to play chess and sudoku
 - I enjoy listening to music and podcasts
 - I like to watch anime and read manga
+
+## 🧷 Holopin Badges ...
+[![An image of @codekisku's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codekisku)](https://holopin.io/@codekisku)
