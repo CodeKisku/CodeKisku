@@ -1,7 +1,7 @@
 <!--- ![Header](https://i.imgur.com/TjOSvQ7.png)
 
-[![An image of @codekisku's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codekisku)](https://holopin.io/@codekisku)
 --->
+[![An image of @codekisku's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codekisku)](https://holopin.io/@codekisku)
 <h1 align="center">Hi 👋, I'm Sanatan Kisku</h1>
 <h3 align="center">I'm a passionate developer who loves to learn new things and create awesome projects.</h3>
 
